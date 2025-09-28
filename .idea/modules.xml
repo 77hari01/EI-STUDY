@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Behavioural/Behavioural.iml" filepath="$PROJECT_DIR$/Design Patterns/Behavioural/Behavioural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Creational/Creational.iml" filepath="$PROJECT_DIR$/Design Patterns/Creational/Creational.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Design Patterns.iml" filepath="$PROJECT_DIR$/Design Patterns/Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ei-Study.iml" filepath="$PROJECT_DIR$/Ei-Study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mini-Project/Mini-Project.iml" filepath="$PROJECT_DIR$/Mini-Project/Mini-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Structural/Structural.iml" filepath="$PROJECT_DIR$/Design Patterns/Structural/Structural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Behavioural/Use Case - 1/Use Case - 1.iml" filepath="$PROJECT_DIR$/Design Patterns/Behavioural/Use Case - 1/Use Case - 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Behavioural/Use Case - 2/Use Case - 2.iml" filepath="$PROJECT_DIR$/Design Patterns/Behavioural/Use Case - 2/Use Case - 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Creational/Use Case 1/Use Case 1.iml" filepath="$PROJECT_DIR$/Design Patterns/Creational/Use Case 1/Use Case 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Creational/Use Case 2/Use Case 2.iml" filepath="$PROJECT_DIR$/Design Patterns/Creational/Use Case 2/Use Case 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Structural/Use case 1/Use case 1.iml" filepath="$PROJECT_DIR$/Design Patterns/Structural/Use case 1/Use case 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Patterns/Structural/Use case 2/Use case 2.iml" filepath="$PROJECT_DIR$/Design Patterns/Structural/Use case 2/Use case 2.iml" />
+    </modules>
+  </component>
+</project>
