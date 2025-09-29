@@ -18,7 +18,7 @@ This repository contains solutions for the EI (Educational Initiatives) Campus D
 The `Design Pattern` folder contains three subfolders for each of the design patterns: Creational, Structural, and Behavioural. Each design pattern folder contains two use cases.
 
 #### Creational Design Patterns
-- **Use Case 1**
+- **[Use Case 1](Design Patterns/Creational/Use Case 1/README.md)**
 - **Use Case 2**
 
 #### Structural Design Patterns
