@@ -1,0 +1,39 @@
+# EI Study
+
+This repository contains solutions for the EI (Educational Initiatives) Campus Drive test exercises. The solutions are implemented using TypeScript.
+
+## Submission by
+
+**Name:** Hariharan K S  
+**Roll No:** 226012  
+**Email:** 77harisuresh@gmail.com  
+**Department:** AI&DS (Artificial Intelligence and Data Science)
+
+---
+
+## Exercises
+
+### Exercise 1: Design Patterns
+
+The `Design Pattern` folder contains three subfolders for each of the design patterns: Creational, Structural, and Behavioural. Each design pattern folder contains two use cases.
+
+#### Creational Design Patterns
+- **Use Case 1**
+- **Use Case 2**
+
+#### Structural Design Patterns
+- **Use Case 1**
+- **Use Case 2**
+
+#### Behavioural Design Patterns
+- **Use Case 1**
+- **Use Case 2**
+
+---
+
+### Exercise 2: Mini Project
+
+#### Mini Project: Mars Rover Programming Exercise
+
+The `Mars Rover Programming Exercise` folder contains the solution for the second problem in the given statements. It includes a `src` folder containing the code for the mini project. To run the code, navigate to the `Mars Rover Programming Exercise` directory and follow the build instructions provided in the README file.
+
