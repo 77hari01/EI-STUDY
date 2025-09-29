@@ -8,7 +8,7 @@ This repository contains implementations of various **Design Patterns** organize
 
 
 ### Behavioral Patterns
-1. [Use Case 1](#tree/master/Design%20Patterns/Behavioural/Use%20Case%20-%201)
+1. [Use Case 1](#(https://github.com/77hari01/EI-STUDY/blob/master/Design%20Patterns/Behavioural/Use%20Case%20-%201/README.md))
     - observer-pattern : Notification System
 2. [Use Case 2](#command-pattern)
     - command-pattern : Remote Control
