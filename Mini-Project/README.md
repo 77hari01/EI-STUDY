@@ -4,7 +4,8 @@ A sophisticated Mars Rover simulation system built with Java, demonstrating mult
 
 ## Overview
 
-This project simulates Mars rovers navigating a grid-based terrain with obstacles and water sources. The system features autonomous pathfinding using A* algorithm, real-time mission control monitoring, and modular rover capabilities through decorator patterns.
+This project is a Mars Rover Control System that allows users to create, manage, and operate rovers navigating a grid-based Martian terrain. The system provides comprehensive control over rover operations including movement, rotation, obstacle avoidance, autonomous pathfinding, and water source detection. The application uses several design patterns, including Command, State, Factory, Observer, Decorator, Composite, and Singleton patterns, to ensure a scalable and maintainable architecture.
+The simulation features intelligent A* pathfinding algorithm for autonomous navigation, real-time mission control monitoring, and modular rover capabilities that can be extended through decorator patterns. Rovers can detect obstacles, find optimal paths around them, and identify water sources during exploration missions.
 
 ## Design Patterns Implemented
 
