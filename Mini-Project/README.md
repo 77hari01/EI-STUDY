@@ -12,25 +12,25 @@ This project simulates Mars rovers navigating a grid-based terrain with obstacle
 Encapsulates rover actions as command objects for flexible execution and potential undo/redo functionality.
 
 **Available Commands:**
-- `MoveCommand`: Moves the rover forward in its current direction
-- `TurnLeftCommand`: Rotates the rover 90 degrees counter-clockwise
-- `TurnRightCommand`: Rotates the rover 90 degrees clockwise
+- [`MoveCommand`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/command/MoveCommand.java): Moves the rover forward in its current direction
+- [`TurnLeftCommand`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/command/TurnLeftCommand.java): Rotates the rover 90 degrees counter-clockwise
+- [`TurnRightCommand`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/command/TurnRightCommand.java): Rotates the rover 90 degrees clockwise
 
 ### State Pattern
 Manages directional states for the rover's orientation.
 
 **Direction States:**
-- `NorthDirection`: Facing north (positive Y)
-- `SouthDirection`: Facing south (negative Y)
-- `EastDirection`: Facing east (positive X)
-- `WestDirection`: Facing west (negative X)
+- [`NorthDirection`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/direction/NorthDirection.java): Facing north (positive Y)
+- [`SouthDirection`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/direction/SouthDirection.java): Facing south (negative Y)
+- [`EastDirection`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/direction/EastDirection.java): Facing east (positive X)
+- [`WestDirection`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/direction/WestDirection.java): Facing west (negative X)
 
 ### Factory Pattern
 Creates direction and command objects dynamically based on input.
 
 **Factories:**
-- `DirectionFactory`: Creates direction objects from single-character input (N/S/E/W)
-- `CommandFactory`: Creates command objects from single-character input (M/L/R)
+- [`DirectionFactory`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/direction/DirectionFactory.java): Creates direction objects from single-character input (N/S/E/W)
+- [`CommandFactory`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/command/CommandFactory.java): Creates command objects from single-character input (M/L/R)
 
 ### Observer Pattern
 Enables mission control to monitor rover activities in real-time.
@@ -47,21 +47,21 @@ Enables mission control to monitor rover activities in real-time.
 Adds capabilities to rovers without modifying the base class.
 
 **Available Decorators:**
-- `WaterDetectorRover`: Adds automatic water detection during navigation
+- [`WaterDetectorRover`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/decorator/WaterDetectorRover.java): Adds automatic water detection during navigation
 
 ### Composite Pattern
 Organizes terrain features into hierarchical structures.
 
 **Components:**
-- `Obstacle`: Represents impassable terrain
-- `WaterSource`: Represents water locations
-- `TerrainComposite`: Groups multiple terrain features
+- [`Obstacle`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/terrain/Obstacle.java): Represents impassable terrain
+- [`WaterSource`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/terrain/WaterSource.java): Represents water locations
+- [`TerrainComposite`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/terrain/TerrainComposite.java): Groups multiple terrain features
 
 ### Singleton Pattern
 Ensures single instance of the rover registry.
 
 **Singleton Classes:**
-- `RoverRegistry`: Maintains global registry of all deployed rovers
+- [`RoverRegistry`](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/src/Marsrover/core/RoverRegistry.java): Maintains global registry of all deployed rovers
 
 ## Features
 
