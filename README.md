@@ -37,4 +37,4 @@ The `Design Pattern` folder contains three subfolders for each of the design pat
 
 The `Mars Rover Programming Exercise` folder contains the solution for the second problem in the given statements. It includes a `src` folder containing the code for the mini project. To run the code, navigate to the `Mars Rover Programming Exercise` directory and follow the build instructions provided in the README file.
 
-**[Mars Rover Programming Exercise](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/README.md)**
+- **[Mars Rover Programming Exercise](https://github.com/77hari01/EI-STUDY/blob/master/Mini-Project/README.md)**
