@@ -6,23 +6,24 @@ This repository contains implementations of various **Design Patterns** organize
 
 ## Table of Contents
 
+
+### Behavioral Patterns
+1. [Use Case 1](#observer-pattern)
+    - observer-pattern : Notification System
+2. [Use Case 2](#command-pattern)
+    - command-pattern : Remote Control
+
 ### Creational Patterns
-1. [Use Case - 1 ](#singleton-pattern)
+3. [Use Case - 1 ](#singleton-pattern)
     - Singleton-pattern : Database Connection
-2. [Use Case - 2](#factory-pattern)
+4. [Use Case - 2](#factory-pattern)
     - factory-pattern : Food App
 
 ### Structural Patterns
-3. [Use Case 1](#decorator-pattern)
+5. [Use Case 1](#decorator-pattern)
     - Decorator-pattern : Coffee Shop
-4. [Use Case 2](#composite-pattern)
+6. [Use Case 2](#composite-pattern)
     - composite-pattern : File System
-
-### Behavioral Patterns
-5. [Use Case 1](#observer-pattern)
-    - observer-pattern : Notification System
-6. [Use Case 2](#command-pattern)
-    - command-pattern : Remote Control
 
 ---
 
