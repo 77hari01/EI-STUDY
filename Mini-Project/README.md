@@ -100,7 +100,13 @@ Ensures single instance of the rover registry.
 ### Installation
 
 1. Clone or download the repository
+   ```bash
+   git clone https://github.com/77hari01/EI-STUDY
+   ```
 2. Navigate to the project directory
+   ```bash
+   cd Mini-Project/src/Marsrover
+   ```
 3. Compile the Java file:
    ```bash
    javac MarsRoverSimulation.java
